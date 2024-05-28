@@ -1,0 +1,8 @@
+.pio
+.vscode
+build
+dist
+zbs_flasher.spec
+flash.bin
+info.bin
+mac_backups
