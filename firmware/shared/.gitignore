@@ -50,13 +50,3 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-
-.pio
-.vscode
-build
-dist
-zbs_flasher.spec
-flash.bin
-info.bin
-mac_backups
-*__pycache__
